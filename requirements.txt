@@ -1,0 +1,9 @@
+Streamlit==1.34.0
+Pandas===2.0.3
+NumPy==1.25.2
+Scikit-learn==1.2.2
+Googletrans==3.0.0
+langdetect
+NLTK==3.8.1
+Joblib==1.4.2
+Imbalanced-learn==0.10.1
